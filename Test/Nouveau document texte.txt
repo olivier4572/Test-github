@@ -1,3 +1,2 @@
 docker exec -it gitlab vim /etc/gitlab/gitlab.rb
-
 sdjfskjdfs
